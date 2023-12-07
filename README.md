@@ -1,6 +1,6 @@
 <h1> taller 9 - Martha Isabel Reyes Cruz </h1>
 
-<h2>Infomrmación</h2>
+<h2>Información</h2>
 <p>Curso: Full Stack Básico - Grupo 1 </p>
 <p>Profesor: Crisitan Patiño </p>
 
