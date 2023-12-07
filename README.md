@@ -10,8 +10,7 @@
 <a href="https://www.figma.com/file/byixUXuWMYBHhRNmwTBWLN/Martha-Isabel-Reyes-Cruz?type=design&node-id=8%3A256&mode=design&t=4hJePcIC87addaiT-1">Link de Figma</a>
 
 <h2> Punto 2: Diseño en HTML </h2>
-
-<img scr="./public/images/punto-2.png" alt="punto 2">
+<img src="./public/images/punto-2.png" alt="punto 2">
 
 <h2> punto 3: Diseño con CSS</h2>
 
