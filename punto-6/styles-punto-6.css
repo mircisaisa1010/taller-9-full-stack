@@ -1,0 +1,11 @@
+#marca{
+    display: flex;
+    list-style: none;
+    color: purple;
+}
+
+#as {
+    display: flex;
+    list-style: none;
+    color: yellow;
+}
