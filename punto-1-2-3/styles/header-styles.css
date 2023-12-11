@@ -1,0 +1,45 @@
+header {
+display: flex;
+justify-content: space-between;
+margin: 0px 100px;
+}
+
+.header__navigator{
+    display: flex;
+    align-items: center;
+}
+
+ul {
+   display: flex; 
+   list-style: none;
+   gap: 40px;
+}
+
+nav a {
+    color: #454868;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.header__settings {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    font-family: 'Jost';
+    font-weight: 300;
+    color: #454868;
+}
+
+button {
+    background-color:transparent;
+    border: 1px solid #45486843;
+    color: #454868;
+}
+
